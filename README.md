@@ -1,5 +1,7 @@
-# octocat2.github.io
-about my project
+#SHUBHAM BABBAR 
+(ENHANCEMENT IN ROAD SAFETY USING RASPBERRY PI)
+about my college project
+
 The main goal of this project is to design and implement a traffic security system based on Raspberry Pi 3(latest version of raspberry pi device) which can be deployed on the traffic red lights and highways. Using this system, we can detect if there’s water logging on the road, if there’s fire on the road, condition of the road, and anyone who is breaking the traffic red light.
 
 The main advantage of traffic security system is it is better than any other security systems. This system consist of a Water Sensor(which sense if there’s water logging on the road), an IR sensor(activated when light is red, and checks if anyone is breaking it), a Smoke Sensor(to detect 
